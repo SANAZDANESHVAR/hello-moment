@@ -1,4 +1,4 @@
-### CPNT262-NPM PRACTICE
+### CPNT262-NPM activity2
 
 ## by Sanaz Daneshvar
 ### [Github link] (https://sanazdaneshvar.github.io/hello-moment)
